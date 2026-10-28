@@ -1,0 +1,20 @@
+# Old repo backup (preserved and protected)
+_sandforce_backup/
+
+# Unrelated app folders
+habit-tracker/
+user_template/
+video_generator_app/
+scratch/
+
+# Environment & temporary files
+.gemini/
+.env
+.venv/
+*.py
+*.pyc
+*.log
+*.zip
+__pycache__/
+.DS_Store
+Thumbs.db
