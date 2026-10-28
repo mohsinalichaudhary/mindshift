@@ -32,19 +32,19 @@
 - **Official Website**: https://mindshifttech.online/
 - **Official YouTube**: https://www.youtube.com/@mindshifttech194
 - **Official Instagram**: https://www.instagram.com/mindshifttech/reels/
-- **Inquiry Form**: https://mindshifttech.online/contact.html
+- **Inquiry Form**: https://mindshifttech.online/contact/
 
 ## Key Pages Reference
 - [Homepage](https://mindshifttech.online/)
-- [Services Hub](https://mindshifttech.online/services.html)
-- [Meta Ads Management](https://mindshifttech.online/services/meta-ads.html)
-- [Google Ads Agency](https://mindshifttech.online/services/google-ads.html)
-- [B2B Lead Generation](https://mindshifttech.online/services/lead-generation.html)
-- [High-Performance Web Development](https://mindshifttech.online/services/web-development.html)
-- [Search Engine Optimization](https://mindshifttech.online/services/seo.html)
-- [Social Media Marketing](https://mindshifttech.online/services/social-media.html)
-- [Conversion Tracking & Analytics](https://mindshifttech.online/services/conversion-tracking.html)
-- [Commercial Industries We Serve](https://mindshifttech.online/industries.html)
-- [Verified Case Studies](https://mindshifttech.online/case-studies.html)
-- [About MindShift Tech](https://mindshifttech.online/about.html)
-- [Contact MindShift Tech](https://mindshifttech.online/contact.html)
+- [Services Hub](https://mindshifttech.online/services/)
+- [Meta Ads Management](https://mindshifttech.online/services/meta-ads/)
+- [Google Ads Agency](https://mindshifttech.online/services/google-ads/)
+- [B2B Lead Generation](https://mindshifttech.online/services/lead-generation/)
+- [High-Performance Web Development](https://mindshifttech.online/services/web-development/)
+- [Search Engine Optimization](https://mindshifttech.online/services/seo/)
+- [Social Media Marketing](https://mindshifttech.online/services/social-media/)
+- [Conversion Tracking & Analytics](https://mindshifttech.online/services/conversion-tracking/)
+- [Commercial Industries We Serve](https://mindshifttech.online/industries/)
+- [Verified Case Studies](https://mindshifttech.online/case-studies/)
+- [About MindShift Tech](https://mindshifttech.online/about/)
+- [Contact MindShift Tech](https://mindshifttech.online/contact/)
