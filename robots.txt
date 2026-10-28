@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Answer Engine Crawlers (AEO / GEO Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://mindshifttech.online/sitemap.xml
+# LLMs Context Standard: https://mindshifttech.online/llms.txt
