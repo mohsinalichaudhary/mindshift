@@ -14,5 +14,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://mindshifttech.online/sitemap.xml
-# LLMs Context Standard: https://mindshifttech.online/llms.txt
+Sitemap: https://mindshifts.online/sitemap.xml
+# LLMs Context Standard: https://mindshifts.online/llms.txt
