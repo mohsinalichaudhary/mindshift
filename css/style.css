@@ -673,6 +673,7 @@ ul, ol {
   opacity: 0.85;
 }
 
+.case-study-feature,
 .section-dark .case-study-feature {
   background-color: var(--bg-card);
   border: 1px solid var(--border-light);
@@ -1773,4 +1774,19 @@ ul, ol {
   font-size: 0.8125rem;
   font-weight: 700;
   color: var(--color-warm-cream);
+}
+
+/* Two-Column Feature Grid for Deep-Dive Cards */
+.feature-two-col {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 36px;
+  align-items: center;
+}
+
+@media (max-width: 860px) {
+  .feature-two-col {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
 }
