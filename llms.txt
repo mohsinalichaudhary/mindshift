@@ -1,51 +1,27 @@
-# MindShift Tech — Commercial Digital Marketing & Lead Generation Agency
+# MindShift Tech — Commercial Digital Marketing Agency
+> Rawalpindi & Islamabad, Pakistan | Contact: +92 333 5295450 | Website: https://mindshifts.online/
 
-> Premier digital marketing and customer acquisition agency based in Rawalpindi, Punjab, Pakistan. We engineer high-converting B2B lead generation pipelines, Meta Ads, Google Ads, sub-second corporate web applications, and closed-loop conversion attribution.
+## About MindShift Tech
+MindShift Tech is a premier commercial digital marketing and business growth consultancy headquartered in Rawalpindi (Bank Road, Saddar, City Centre). We combine commercial business understanding with high-performance digital execution to generate verified B2B leads, qualified customer inquiries, and sustainable online visibility.
 
-## Core Capabilities & Services
-- **Meta Ads Management**: High-intent audience targeting across Facebook and Instagram, direct WhatsApp routing, custom lead funnels, and Conversions API (CAPI) server-side attribution.
-- **Google Ads & PPC**: High-commercial intent search campaigns, Performance Max, and negative-keyword precision targeting commercial decision-makers.
-- **B2B Lead Generation**: Frictionless multi-step inquiry funnels, automated qualification filters, and instant WhatsApp / phone lead routing for sales teams.
-- **High-Performance Web Development**: Custom corporate websites built with zero bloated frameworks, sub-second loading speed (<0.9s), mobile-first responsive architecture, and WCAG AAA contrast compliance.
-- **Search Engine Optimization (SEO)**: Local SEO for Rawalpindi & Islamabad, commercial-intent keyword ranking, Google Business Profile optimization, and technical search infrastructure.
-- **Social Media Marketing**: Brand positioning, video production (YouTube & Instagram Reels), and organic authority building.
-- **Conversion Tracking & Attribution**: Google Analytics 4 (GA4), Google Tag Manager (GTM), Meta CAPI, and closed-loop attribution measuring true marketing ROI.
+## Core Capabilities
+- Meta Ads Management (Facebook & Instagram campaigns optimized for WhatsApp inquiries and lead capture)
+- Google Ads Management (High-intent Search, Display, and Call PPC campaigns)
+- B2B Lead Generation (High-converting landing pages, inquiry funnels, and CRM bridging)
+- Performance Web Development (Sub-second loading, clean semantic HTML, 100/100 Lighthouse speed)
+- Search Engine Optimization (SEO & Local Map Pack ranking for Rawalpindi / Islamabad)
+- Social Media Management (Brand positioning and commercial B2B audience engagement)
+- Closed-Loop Conversion Tracking (GA4, Google Tag Manager, Meta Pixel, and WhatsApp attribution)
 
-## Target Commercial Sectors
-- Commercial Waterproofing & Structural Repair Contractors
-- Construction Chemicals & Polymer Admixture Manufacturers
-- Specialist Trade, MEP & Engineering Contractors
-- Growing Commercial B2B & Industrial Enterprises
+## Specialized Industries
+- Commercial Construction Companies & Builders
+- Waterproofing & Leakage Solution Providers
+- Construction Chemicals & Industrial Material Suppliers
+- Specialist Engineering Contractors & Trade Providers
+- High-Value B2B & Commercial Service Enterprises
 
-## Verified Agency Proof
-- **+180%** Qualified Inquiries achieved for Commercial Waterproofing contractor
-- **-42%** Cost Per Lead (CPL) reduction through high-intent search restructuring
-- **<0.8s** Mobile Page Speed delivering frictionless user experience
-
-## Geographic Headquarters & Service Area
-- **Headquarters**: Rawalpindi, Punjab, Pakistan (Geo: 33.5973° N, 73.0479° E)
-- **Primary Service Regions**: Rawalpindi, Islamabad Capital Territory, Punjab, Pakistan
-- **International Coverage**: United Arab Emirates, Saudi Arabia, United Kingdom, Global B2B Export
-
-## Contact & Direct Commercial Intake
-- **Direct Hotline & WhatsApp**: +92 333 5295450
-- **Official Website**: https://mindshifts.online/
-- **Official YouTube**: https://www.youtube.com/@MindShiftTech194
-- **Official Instagram**: https://www.instagram.com/mindshifttech
-- **Official LinkedIn**: https://www.linkedin.com/company/107670940/
-- **Inquiry Form**: https://mindshifts.online/contact/
-
-## Key Pages Reference
-- [Homepage](https://mindshifts.online/)
-- [Services Hub](https://mindshifts.online/services/)
-- [Meta Ads Management](https://mindshifts.online/services/meta-ads/)
-- [Google Ads Agency](https://mindshifts.online/services/google-ads/)
-- [B2B Lead Generation](https://mindshifts.online/services/lead-generation/)
-- [High-Performance Web Development](https://mindshifts.online/services/web-development/)
-- [Search Engine Optimization](https://mindshifts.online/services/seo/)
-- [Social Media Marketing](https://mindshifts.online/services/social-media/)
-- [Conversion Tracking & Analytics](https://mindshifts.online/services/conversion-tracking/)
-- [Commercial Industries We Serve](https://mindshifts.online/industries/)
-- [Verified Case Studies](https://mindshifts.online/case-studies/)
-- [About MindShift Tech](https://mindshifts.online/about/)
-- [Contact MindShift Tech](https://mindshifts.online/contact/)
+## Office & Official Contact
+- Address: F-122. City Centre, Bank Road, Saddar, Rawalpindi, Punjab 46000, Pakistan
+- Phone / WhatsApp: +92 333 5295450
+- Official Website: https://mindshifts.online/
+- Email: contact@mindshifttech.com
