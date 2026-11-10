@@ -1,18 +1,27 @@
+# robots.txt for https://mindshifts.online/
+# Optimized for Googlebot, Bingbot, and AI Answer Engines (Perplexity, SearchGPT, Claude, Applebot)
+
 User-agent: *
 Allow: /
 
-# Answer Engine Crawlers (AEO / GEO Optimization)
+# Permit AI & Answer Engine crawlers
 User-agent: GPTBot
 Allow: /
 
-User-agent: PerplexityBot
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: PerplexityBot
+Allow: /
+
 User-agent: Google-Extended
 Allow: /
 
+User-agent: Applebot
+Allow: /
+
+# Canonical XML Sitemap
 Sitemap: https://mindshifts.online/sitemap.xml
-# LLMs Context Standard: https://mindshifts.online/llms.txt
